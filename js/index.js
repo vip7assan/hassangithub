@@ -52,7 +52,7 @@ var vip= 25.395495600000004;
    var mvp =49.6020268;
   	var mapOptions = {
     center: new google.maps.LatLng(vip,mvp),
-    zoom: 55,
+    zoom: 20,
     mapTypeId: google.maps.MapTypeId.ROADMAP
 };
 
